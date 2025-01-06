@@ -1,5 +1,3 @@
-"# WazeScriptsPublic" 
-
 DistanceCalculator.py
 
 A Haversine-formula
