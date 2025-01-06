@@ -1,6 +1,7 @@
 "# WazeScriptsPublic" 
 
 DistanceCalculator.py
+
 A Haversine-formula
 
 a = sin(dlat / 2) ** 2 + cos(lat1) * cos(lat2) * sin(dlon / 2) ** 2
